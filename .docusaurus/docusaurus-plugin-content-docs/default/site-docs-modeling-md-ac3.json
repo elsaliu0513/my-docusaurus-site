@@ -1,0 +1,21 @@
+{
+  "id": "modeling",
+  "title": "Modeling",
+  "description": "这里是关于 Modeling 的文档内容。",
+  "source": "@site/docs/modeling.md",
+  "sourceDirName": ".",
+  "slug": "/modeling",
+  "permalink": "/modeling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Modeling"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Clients",
+    "permalink": "/clients"
+  }
+}
